@@ -1,2 +1,2 @@
 # Calculator
-Create a Calculator
+Use Calculator
